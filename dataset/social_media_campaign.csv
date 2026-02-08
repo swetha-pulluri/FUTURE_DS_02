@@ -1,1 +1,6 @@
-
+Campaign_ID,Platform,Impressions,Clicks,Conversions,Spend
+C001,Instagram,50000,3200,250,15000
+C002,Facebook,60000,2800,200,14000
+C003,Twitter,30000,1500,120,8000
+C004,LinkedIn,40000,2200,180,12000
+C005,Instagram,70000,4500,380,20000
